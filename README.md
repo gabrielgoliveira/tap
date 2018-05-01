@@ -8,3 +8,5 @@ Repositorio destinado para armazenar listas e conteudos da disciplina TAP.
 >
 >3 - [Map](https://github.com/gabrielgoliveira/tap/blob/master/tecnicas/map.cpp)
 >
+>3 - [Pair](https://github.com/gabrielgoliveira/tap/blob/master/tecnicas/pair.cpp)
+>
